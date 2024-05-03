@@ -6,12 +6,16 @@ The Office Employee Management System is a web-based application built using Dja
 
 # Features
 **Employee Management:** Add, update, and view employee records with ease.
-**Department Management:** Organize employees by departments for better categorization.
-**Salary and Bonus Tracking:** Keep track of employee salaries and any additional bonuses.
-**Role Assignment:** Assign roles or positions to employees within the organization.
-**Contact Information:** Store and manage employee contact phone numbers.
-**Hire Date Recording:** Record the date when employees were hired for reference.
 
+**Department Management:** Organize employees by departments for better categorization.
+
+**Salary and Bonus Tracking:** Keep track of employee salaries and any additional bonuses.
+
+**Role Assignment:** Assign roles or positions to employees within the organization.
+
+**Contact Information:** Store and manage employee contact phone numbers.
+
+**Hire Date Recording:** Record the date when employees were hired for reference.
 # Installation
 Follow these steps to set up the Office Employee Management System on your local machine:
 

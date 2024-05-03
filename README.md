@@ -13,7 +13,6 @@ The Office Employee Management System is a web-based application built using Dja
 **Hire Date Recording:** Record the date when employees were hired for reference.
 
 # Installation
-
 Follow these steps to set up the Office Employee Management System on your local machine:
 
 **Clone the Repository:**
@@ -39,17 +38,22 @@ Follow these steps to set up the Office Employee Management System on your local
 
 # Usage
   **Login:** If authentication is enabled, log in using your credentials.
+  
   **Dashboard:** View the dashboard to get an overview of employee records and other relevant information.
+  
   **Employee Management:** Use the provided interface to add, update, or view employee records.
+  
   **Department Management:** Manage departments and categorize employees accordingly.
+  
   **Salary and Bonus Tracking:** Record and update employee salaries and bonuses as necessary.
+  
   **Role Assignment:** Assign roles or positions to employees within the organization.
+  
   **Contact Information:** Manage employee contact phone numbers for communication purposes.
+  
   **Hire Date Recording:** Record the date when employees were hired for reference.
-
 # Contributing
   Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to open an issue or submit a pull request. Please follow the Contributing Guidelines.
-
 # Acknowledgements
 
 - [Django Documentation](https://docs.djangoproject.com/en/stable/): Official documentation for the Django web framework.

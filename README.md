@@ -18,16 +18,22 @@ Follow these steps to set up the Office Employee Management System on your local
 
 **Clone the Repository:**
     git clone https://github.com/Bigit1024/Django_Office_Employee.git
+    
 **Navigate to the Project Directory:**
     cd Django_Office_Employee
+    
 **Install Dependencies:**
     pip install -r requirements.txt
+    
 **Run Migrations:**
     python manage.py migrate
+    
 **Create Superuser (Optional):**
     python manage.py createsuperuser
+    
 **Run the Development Server:**
     python manage.py runserver
+    
 **Access the Application:**
     Open a web browser and go to http://127.0.0.1:8000/ to access the Office Employee Management System.
 

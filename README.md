@@ -4,7 +4,7 @@
 
 The Office Employee Management System is a web-based application built using Django, a high-level Python web framework, designed to streamline the management of employee records within an organization. This system provides functionalities for adding, updating, and viewing employee information such as first name, last name, department, salary, bonus, role, phone number, and hire date.
 
-#Features
+# Features
 **Employee Management:** Add, update, and view employee records with ease.
 **Department Management:** Organize employees by departments for better categorization.
 **Salary and Bonus Tracking:** Keep track of employee salaries and any additional bonuses.
